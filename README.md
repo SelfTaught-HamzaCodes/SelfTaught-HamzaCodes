@@ -12,8 +12,10 @@
 - Active runner 🏃🏽‍♂️.
 <br></br>
 ### 👨🏼‍💻 Technical Background 
-I am a self-taught developer with a primary focus on Python programming. My passion lies in crafting efficient systems and automating various tasks to enhance the productivity of small businesses. Currently, I am honing my skills in Python, and my long-term goal is to specialize in artificial intelligence while continuing to develop innovative automation solutions.
-
-
+- Began self-taught tech journey in January 2022👨‍🎓.
+- Achieved Certified Entry-Level Python Programmer status📜.
+- Developed automated solutions for the family business⚙.
+- Enthusiastic about AI and computer program crafting 🤖.
+- Commenced Computer Science studies at the University of London in October 2023🎓.<br></br>
 ## Under Construction 🚧
 To be continued.
