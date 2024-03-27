@@ -1,5 +1,6 @@
 ## Hamza's GitHub 👋
-![BeFunky-design (1)](https://github.com/SelfTaught-HamzaCodes/SelfTaught-HamzaCodes/assets/123310424/68baab30-7915-4d3b-987b-3d16ae6796a3)
+![_eec32a1f-04b6-4701-b90c-fd86899b378e](https://github.com/SelfTaught-HamzaCodes/SelfTaught-HamzaCodes/assets/123310424/33155818-5ce4-4c3c-a4c8-88f86afafda0)
+
 ***
 <div style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=selftaught-hamzacodes&" alt="selftaught-hamzacodes" style="width: 200%; height: 200px;" />
